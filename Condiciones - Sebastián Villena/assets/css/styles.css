@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(226, 224, 108);
+}
+
+.border-cat {
+    display: grid;
+    place-items: center;
+    margin: auto;
+    margin-top: 30px;
+}  
+
+.cat {
+    width: 200px;
+    height: 200px;
+}
+
+.dogs {
+    width: 200px;
+    height: 200px;
+}
+
+.stickers {text-align: center;}
+
+.quantity {
+    display: flex;
+    justify-content: space-around;
+}
+
+.password {margin-bottom: 20px;}
